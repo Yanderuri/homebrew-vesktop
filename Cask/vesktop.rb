@@ -1,6 +1,7 @@
-cask "vesktop-universal" do
+cask "vesktop" do
   version "1.5.3"
   sha256 "71e39434748e684a826f390ceb846d52ed1886bab8b5385c5d94c377e3ac1172"
+
   name "Vesktop"
   desc "Vesktop is a custom Discord desktop app"
   homepage "https://vencord.dev"
